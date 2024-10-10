@@ -1,0 +1,150 @@
+Location,Latitude,Latitude
+Manjanggul,33.528486,126.771481
+Bijarim,33.49136,126.811377
+Seopjikoji,33.423542,126.929327
+Seongsanilchul Provincial Marine Park,33.458056,126.9425
+Jeongbang Waterfall,33.244852,126.571803
+Xu Fu exhibition,,
+Chilshimni food specialized street,,
+Jusangjeolli,33.237755,126.425067
+Cheonjiyeon Waterfall,33.246944,126.554417
+Saeyeongyo office,,
+Sanbangsan Mountain,33.241944,126.311667
+The mystery of the road,37.016865,-122.002508
+Jejumok government office,36.360827,127.385408
+Jeju Natural World Heritage Center,33.457031,126.7143
+Halla Arboretum,33.469927,126.493244
+Historic Site of Anti-Yuan Movement,37.663998,127.978458
+Jeolmul Natural Recreation Forest,33.436967,126.628163
+Bulgeun Oreum Natural Recreation Forest,33.403107,126.682779
+Museum of Contemporary Art,37.431223,127.020416
+11Course,33.489011,126.498302
+The Museum of Sex Health,33.254886,126.346699
+Andeok Valley,,
+9Course,37.726139,-122.492659
+Daejeong-eup,33.226815,126.252225
+Andeok-myeon,33.24968,126.337148
+7Course,33.250569,126.416642
+Jungmun Tourist Complex,,
+Jungmun Marine Park Pacificland,,
+Cheonjeyeon Falls,,
+Ripley's Believe It or Not! Museum,,
+Teddy Bear Museum,,
+Play K-Pop Jeju,,
+World Car Museum,33.283195,126.349772
+Hwasun Gotjawal eco-tourism attractions forest,35.064503,126.98648
+Songaksan,33.199444,126.290556
+Footprints hwaseokjji Management Office,,
+Four Seasons beach,,
+Four Seasons coast road,,
+Hwasun golden sand beach,,
+Mara Provincial Marine Park,33.51824,126.523152
+Seogwipo Cross-country Bus Terminal,33.251855,126.560339
+Seogwipo Astronomical Science and Culture Center,33.289315,126.459738
+Museum of world shell,33.247516,126.55173
+Gidang Art Museum,37.564025,126.973779
+Soingook Theme Park,33.290437,126.322496
+hyeopjjae beach,33.393962,126.239098
+Suwolbong Peak,33.293735,126.162815
+Sinjeju Rotary,33.485257,126.489703
+off-season training camp,,
+Jeju pottery Museum,33.513464,126.548959
+Jeju kanran exhibition,,
+The culture street of pine park,33.245849,126.564951
+Lee Joong-sup street,,
+Seogwipo City Lee Joong-sup Art Gallery,,
+Jungangno cross road,33.451163,126.487807
+Pyoseon-myeon,33.321815,126.830596
+Pyoseon daily gym,,
+1Course,37.784087,127.089707
+2Course,33.485143,126.530802
+5Course,,
+Gujwa gym,33.524865,126.853365
+Jeju National Museum,37.63674,127.103394
+Jeju National Sports Center,,
+Namwon-eup,35.416357,127.390488
+Dodubong Park,33.506695,126.474428
+Donnaeko,33.299735,126.584301
+Sarabong Park,33.518,126.544
+Seongsan-eup,33.423542,126.929327
+Sinyang seopjikoji the beach,,
+Jeju Folk Village Museum,33.322511,126.841868
+Pyoseon Haevichi beach,,
+Pyoseon Haevichi beach,33.321815,126.830596
+Jeju Pony Town,,
+Hayo soesokkak the beach,33.252545,126.623521
+Honinji Pond,33.411027,126.898793
+Jungang Rotary,33.252777,126.560549
+Seongsanpo Shell Museum,33.247516,126.55173
+Pony Valley,,
+Museum of the world sex,33.451638,126.49
+Maze Park,33.53593,126.772173
+Andeok Living Gym,,
+Oedolgae Rock,33.239072,126.544592
+Yongyeon,33.516146,126.511881
+Yongduam Rock,,
+Ilchulland,33.380666,126.844913
+Jeju Haenyeo Museum,33.523523,126.863485
+Jeju Herb Dongsan,33.329788,126.814954
+Blue Mountain Coffee theme park,33.290437,126.322496
+Dongmun Rotary,33.513125,126.527095
+Jeju 4.3 peace park,33.45116,126.618941
+Namwon living gym,35.416357,127.390488
+Jeju rehabilitation hospital,33.2528,126.562505
+Keuneong,33.273098,126.703604
+Gangchanghak b Stadium,33.246185,126.509324
+International Peace Center Jeju,33.2452,126.421309
+Jeju International Peace Center Jeju,33.2452,126.421309
+Maehwa Theme Park -1,35.080424,127.71533
+Maehwa Theme Park  - 2,35.080424,127.71533
+The Da Vinci Museum,33.319426,126.385847
+Daeyu industry,,
+Hyodon-ri,,
+Seogwipo all-weather a gate ball ground,,
+Camellia Hill,33.28898,126.370135
+Samyang-dong site,33.521623,126.58597
+Seogwipo Citrus Museum,33.271291,126.607086
+Seogwipo-si  Gungdojang,,
+Seogwipo roller-skating rink,33.258191,126.50037
+Jeju Sculpture Park,33.249264,126.321354
+Seogwipo Natural Recreation Forest,33.31134,126.460265
+Soam the Memorial hyeonjunghwa,37.590783,127.043546
+"Alice's Adventures in Wonderland, Soingook Theme Park",33.290437,126.322496
+Hwanggeumnyung goldeunhil hub farm -2,,
+Jeju Glass Museum,33.314611,126.273691
+Hankyong gym,37.011635,127.264235
+Hwanggeumnyung goldeunhil hub farm -1,,
+267-7 Donggwang-ro,33.30898,126.340273
+Andeok-myeon,,
+"Seogwipo-si, Jeju-do ",,
+eongtto waterfall,33.26854,126.499901
+Yerae Ecology Experience Center,33.447244,126.667715
+Jewon Apt,36.112537,127.54609
+Jeju Greentea,33.305911,126.289427
+Cheju folklore and national history museum,33.506485,126.531615
+Sports Stadium,37.53051,126.883008
+Hyuaeri,37.521247,127.034364
+Kim Jeong-hui's House of Exile,37.663998,127.978458
+anti-Japan memorial hall,,
+Korea Baseball Hall of Fame,33.23839,126.507514
+Gimjeong Cultural Center,,
+Birthplace of Beopjeongsa,,
+Jeju Museum of Art,33.339667,126.265671
+Gwakjji gwamul beach,33.448302,126.307485
+Museum of Education,,
+Ido Park,,
+Jeju anti-Japan memorial hall,,
+Jocheon gym,,
+deer ecology observation center,33.44463,126.627465
+Aewal Ocean Front National Sports Center,,
+Jeju dinosaurs Museum,33.442484,126.432754
+Jeju chusagwan,,
+natural-lover gallery,,
+Liquorium,37.018485,127.865624
+Daejeong Culture and Sports Center,36.316167,127.431516
+Hanlim gym,37.485159,127.133512
+water transport park,33.247966,126.518195
+Film Culture center,,
+Aewol gym,33.464241,126.320728
+ioteu beach,33.501884,126.453424
+Intercity Bus Terminal,33.499725,126.514843

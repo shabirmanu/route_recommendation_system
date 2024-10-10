@@ -1,0 +1,18 @@
+Location,Latitude,Long
+Manjanggul,33.528486,126.771481
+Bijarim,33.49136,126.811377
+Seopjikoji,33.423542,126.929327
+Seongsanilchul Provincial Marine Park,33.458056,126.9425
+Jeongbang Waterfall,33.244852,126.571803
+Xu Fu exhibition,0,0
+Chilshimni food specialized street,0,0
+Jusangjeolli,33.237755,126.425067
+Cheonjiyeon Waterfall,33.246944,126.554417
+Saeyeongyo office,0,0
+Sanbangsan Mountain,33.241944,126.311667
+The mystery of the road,37.016865,-122.002508
+Jejumok government office,36.360827,127.385408
+Jeju Natural World Heritage Center,33.457031,126.7143
+Halla Arboretum,33.469927,126.493244
+Historic Site of Anti-Yuan Movement,37.663998,127.978458
+Museum of Contemporary Art,37.431223,127.020416
